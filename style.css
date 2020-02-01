@@ -164,7 +164,7 @@ i {
 		margin-bottom: 50px;
 	}
 }
-
+/*
 /* Big Mobile & Tablet Styles */
 @media only screen and (min-width: 373px) and (max-width: 650px) {
 	div.general-weather {
@@ -186,3 +186,4 @@ i {
 		padding-right: 10px;
 	}
 }
+*/
