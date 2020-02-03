@@ -109,22 +109,20 @@ i {
 		border-radius: 10px;
 		text-align: center;
 		margin: auto;
-		width: 280px;
+		width: auto;
 		background-color: #FFF;
 		cursor: pointer;
 	}
 
 	div.general-weather {
-		background-color: #EFEFEF;
 		margin-top: 50px;
 		margin-bottom: 50px;
-		width: 300px;
+		width: auto;
 		height: auto;
 	}
 
 	div.detailed-weather {
-		background-color: #EFEFEF;
-		width: 300px;
+		width: auto;
 		height: auto;
 		margin-top: 50px;
 		margin-bottom: 50px;
@@ -139,26 +137,24 @@ i {
 		border-radius: 10px;
 		text-align: center;
 		margin: auto;
-		width: 320px;
+		width: auto;
 		background-color: #FFF;
 		cursor: pointer;
 	}
 
 	table {
-		width: 340px;
+		width: auto;
 	}
 
 	div.general-weather {
-		background-color: #EFEFEF;
 		margin-top: 50px;
 		margin-bottom: 50px;
-		width: 370px;
+		width: auto;
 		height: auto;
 	}
 
 	div.detailed-weather {
-		background-color: #EFEFEF;
-		width: 370px;
+		width: auto;
 		height: auto;
 		margin-top: 50px;
 		margin-bottom: 50px;
